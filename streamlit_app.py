@@ -649,7 +649,7 @@ def get_single_news(query):
 # Para usar a API do TMDB, crie uma conta em https://www.themoviedb.org/
 # e gere sua API key em https://www.themoviedb.org/settings/api
 # Depois cole sua chave abaixo:
-TMDB_API_KEY = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5NzhlZTAxMTg0NmZkNGEzODFlMjE5NzIxNDA3ZTcxMyIsIm5iZiI6MTczNzc0NDc2Mi4wOTQsInN1YiI6IjY3OTM0MjlhMjBjZmYxZTQ2NzY2YmYxMCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.J2ZXJzaW9uIjoxfQ5sSTiI-dCh5kfrqAFgGRLS4Ba-X_zv0twE6KnRDjf0g"  # Token de Leitura da API
+TMDB_API_KEY = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5NzhlZTAxMTg0NmZkNGEzODFlMjE5NzIxNDA3ZTcxMyIsIm5iZiI6MTc2OTI4NzY2NS41NDQsInN1YiI6IjY5NzUyZmYxMjBjYTQ5ZjZiOGFlMmYzOSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.5sSTiI-dCh5kfrqAFgGRLS4Ba-X_zv0twE6KnRDjf0g"  # Token de Leitura da API
 
 # Mapeamento de gêneros do TMDB
 TMDB_GENRES = {
